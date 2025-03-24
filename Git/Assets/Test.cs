@@ -4,5 +4,5 @@ public class Test : MonoBehaviour
 {
     // Testing changes
 
-    public bool isGitGood = false;
+    public bool isGitGood = true;
 }
